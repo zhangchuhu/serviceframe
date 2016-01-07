@@ -1,9 +1,11 @@
-#include "server_common/helper/imdb_inc.h"
+#include "WrapServerStart.h"
+#include "server_common/server-lib/ConfigDaemonServer.h"
 
 int main(int sz, char *args[]) 
 {
 	WrapServerStart::init();
-	DAEMON_SERVER_START
-		WrapServerStart::run();
+	ConfigDaemonServer __server;
+	 __server.startSV();
+	WrapServerStart::run();
 	return 0;
 }

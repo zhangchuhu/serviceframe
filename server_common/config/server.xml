@@ -1,0 +1,60 @@
+<conf>
+<servers>
+	
+	<daemond>
+		<allows>
+			<allow dip="01" wip="02"/>
+			<allow dip="11"/>
+			<allow wip="22"/>
+		</allows>
+		<port>2000</port>
+	</daemond>
+	<linkd>
+		<port>443</port>
+		<front_port>81</front_port>
+		<front_port>1081</front_port>
+		<front_port>8081</front_port>
+		<name>_lk</name>
+	</linkd>
+	<lbsd>
+		<port>443</port>
+		<front_port>81</front_port>
+		<front_port>1081</front_port>
+		<front_port>8081</front_port>
+		<name>_lk</name>
+		<hangup>true</hangup>
+	</lbsd>
+	<smanager>
+		<port>443</port>
+		<name>smanager</name>
+		<hangup>false</hangup>
+		<default-db master="master" slave="slave"/>
+		<default-db-id>123</default-db-id>
+	</smanager>
+</servers>
+<dbs>
+	<db	name="smanger_master">
+		<host>host1</host>
+		<user>user</user>
+		<passwd>passwd</passwd>
+		<port>3306</port>
+		<database>smanager</database>
+	</db>
+	
+	<db	name="smanger_master">
+		<host>host2</host>
+		<user>user</user>
+		<passwd>passwd</passwd>
+		<port>3306</port>
+		<database>smanager</database>
+	</db>
+
+	<db	name="smanger_slave">
+		<host>host3</host>
+		<user>user</user>
+		<passwd>passwd</passwd>
+		<port>3306</port>
+		<database>smanager</database>
+	</db>
+</dbs>
+</conf>

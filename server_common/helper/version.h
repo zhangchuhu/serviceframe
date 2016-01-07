@@ -1,0 +1,4 @@
+#ifndef SERVER_VERSION_H_FXW
+#define SERVER_VERSION_H_FXW
+#define SERVER_VERSION 111 
+#endif

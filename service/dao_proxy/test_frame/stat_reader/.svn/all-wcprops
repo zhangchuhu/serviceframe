@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader
+END
+PxGlobalConf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/PxGlobalConf.cpp
+END
+FileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/FileUtils.cpp
+END
+time_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/time_util.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/util.h
+END
+PxGlobalConf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/PxGlobalConf.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/main.cpp
+END
+FileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/FileUtils.h
+END
+global_typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/global_typedef.h
+END
+daoproxy_globalconf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/daoproxy_globalconf.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/Makefile
+END
+test_log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/test_log.txt
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/stat_reader/util.cpp
+END

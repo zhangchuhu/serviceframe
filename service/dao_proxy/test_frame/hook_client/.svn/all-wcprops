@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/hook_client
+END
+hook_call.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/hook_client/hook_call.hpp
+END
+route_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/hook_client/route_types.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/hook_client/main.cpp
+END
+route_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/hook_client/route_types.h
+END
+hook_call.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/hook_client/hook_call.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/hook_client/Makefile
+END

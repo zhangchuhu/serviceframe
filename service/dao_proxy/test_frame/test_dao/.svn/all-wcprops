@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/test_dao
+END
+TestDaoRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/test_dao/TestDaoRequest.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/test_dao/main.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/test_dao/Makefile
+END
+TestDaoRequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/test_dao/TestDaoRequest.cpp
+END

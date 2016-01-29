@@ -1,0 +1,46 @@
+9
+
+dir
+925426
+https://svn.yy.com/repos/src/server_back/trunk/dao_proxy/test_frame
+https://svn.yy.com/repos
+
+
+
+2012-07-06T10:21:19.727303Z
+200453
+hezhijie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+78f94985-635b-4728-ab42-083be982b135
+
+daoproxy_master
+dir
+
+speed_reader
+dir
+
+test_dao
+dir
+
+stat_reader
+dir
+
+test_client
+dir
+
+hook_client
+dir
+

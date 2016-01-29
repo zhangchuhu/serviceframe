@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader
+END
+stdpack_cnv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/stdpack_cnv.cpp
+END
+FileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/FileUtils.cpp
+END
+time_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/time_util.h
+END
+daemon_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/daemon_parse.h
+END
+source_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/source_util.h
+END
+config_basic_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/config_basic_util.cpp
+END
+stdpack_cnv.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/stdpack_cnv.h
+END
+FileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/FileUtils.h
+END
+stdpack_def.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/stdpack_def.cpp
+END
+config_basic_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/config_basic_util.h
+END
+daoproxy_globalconf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/daoproxy_globalconf.xml
+END
+source_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/source_parser.cpp
+END
+stdpack_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/stdpack_def.h
+END
+test_log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/test_log.txt
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/util.cpp
+END
+PxGlobalConf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/PxGlobalConf.cpp
+END
+source_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/source_parser.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/util.h
+END
+PxGlobalConf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/PxGlobalConf.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/main.cpp
+END
+global_typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/global_typedef.h
+END
+calc_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/calc_class.cpp
+END
+calc_class.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/calc_class.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/Makefile
+END
+daemon_parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/daemon_parse.cpp
+END
+source_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy/test_frame/speed_reader/source_util.cpp
+END

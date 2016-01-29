@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master
+END
+PxGlobalConf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master/PxGlobalConf.cpp
+END
+FileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master/FileUtils.cpp
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master/util.h
+END
+PxGlobalConf.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master/PxGlobalConf.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master/main.cpp
+END
+FileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master/FileUtils.h
+END
+global_typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master/global_typedef.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master/Makefile
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/test_frame/daoproxy_master/util.cpp
+END

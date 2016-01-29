@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<conf>
+  <dao_list>
+    <dao>
+      <id>0</id>
+      <ipports>127.0.0.1:345</ipports>
+      <groupid>0</groupid>
+    </dao>
+  </dao_list>
+  <proxy_list>
+    <proxy>
+      <id>1</id>
+      <ipports>127.0.0.1:345</ipports>
+      <groupid>2</groupid>
+    </proxy>
+  </proxy_list>
+  <licence>
+    <rule>empty</rule>
+    <rule>A=sdb,D=testdao,G=96</rule>
+  </licence>
+  <throttle>
+    <rule>
+      <k>aaa=4</k>
+      <v>-7</v>
+    </rule>
+  </throttle>
+  <route>
+    <rule>
+      <k>bbb=2</k>
+      <v>hii=2223,vav=6h7</v>
+    </rule>
+  </route>
+  <hashring>
+    <node>10w1</node>
+  </hashring>
+  <zzz_xml_parse_okcheck>
+  </zzz_xml_parse_okcheck>
+</conf>
+

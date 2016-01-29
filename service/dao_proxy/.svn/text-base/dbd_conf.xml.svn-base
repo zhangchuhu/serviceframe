@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<conf>
+    <servers>
+	  <dao_proxy>
+      <group>987</group>
+      <name>daopx</name>
+      <port>10343</port>
+      <myip>127.0.0.1</myip>
+    </dao_proxy>
+    </servers>
+</conf>
+

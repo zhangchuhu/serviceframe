@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/200453/src/server_back/trunk/dao_proxy
+END
+px_error_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/px_error_code.h
+END
+FileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/FileUtils.cpp
+END
+PxConf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/PxConf.h
+END
+ThroughputStat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/ThroughputStat.cpp
+END
+x_timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/x_timer.cpp
+END
+x_timer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/x_timer.hpp
+END
+MsgHook.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/MsgHook.h
+END
+PxThriftMsgHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/PxThriftMsgHandler.cpp
+END
+GlobalCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/GlobalCommon.h
+END
+PxGlobalConf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/PxGlobalConf.cpp
+END
+KTMHashRing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/KTMHashRing.cpp
+END
+TrafficStat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/TrafficStat.h
+END
+dao_connection_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/dao_connection_manager.h
+END
+PxYYRequestProcessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/PxYYRequestProcessor.cpp
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/util.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/main.cpp
+END
+RouteStrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/RouteStrategy.h
+END
+route_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/route_types.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/Makefile
+END
+PxConf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/PxConf.cpp
+END
+ConsoleServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/ConsoleServer.h
+END
+time_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/time_util.h
+END
+request_fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/request_fsm.h
+END
+dao_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/dao_manager.h
+END
+makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/makefile.inc
+END
+FileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/FileUtils.h
+END
+MsgHook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/MsgHook.cpp
+END
+GlobalCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/GlobalCommon.cpp
+END
+daoproxy_globalconf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/daoproxy_globalconf.xml
+END
+ThroughputStat.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/ThroughputStat.h
+END
+TrafficStat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/TrafficStat.cpp
+END
+dao_connection_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/dao_connection_manager.cpp
+END
+dbd_conf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/dbd_conf.xml
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/util.cpp
+END
+RouteStrategy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/RouteStrategy.cpp
+END
+PxThriftMsgHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/PxThriftMsgHandler.h
+END
+route_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/route_types.cpp
+END
+PxGlobalConf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/PxGlobalConf.h
+END
+KTMHashRing.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/KTMHashRing.h
+END
+global_typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/global_typedef.h
+END
+PxYYRequestProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/PxYYRequestProcessor.h
+END
+ConsoleServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/ConsoleServer.cpp
+END
+request_fsm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/request_fsm.cpp
+END
+dao_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/175307/src/server_back/trunk/dao_proxy/dao_manager.cpp
+END

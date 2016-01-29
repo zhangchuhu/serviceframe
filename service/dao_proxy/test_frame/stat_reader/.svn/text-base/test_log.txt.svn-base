@@ -1,0 +1,22 @@
+[121.14.241.43:19090]  start
+<start: 121.14.241.43_30811_505> times:1331624199 T:2012-3-13 15:36:39
+<global> send:59860 recv:59998 drop:0 resp:14615.6 drop_rate:0%
+<groupid:97> send:59860 recv:59998 drop:0 resp:14615.6 drop_rate:0%
+<app:we> send:59860 recv:59998 drop:0 resp:14615.6 drop_rate:0%
+<dao:dao_malfunction> send:59860 recv:59998 drop:0 resp:14615.6 drop_rate:0%
+<sname:0 dao:dao_malfunction> send:30028 recv:30095 drop:0 resp:14620.3 drop_rate:0% predict_resp:53576.9
+<sname:1 dao:dao_malfunction> send:29832 recv:29903 drop:0 resp:14610.9 drop_rate:0% predict_resp:54588.4
+<app:we dao:dao_malfunction> send:59860 recv:59998 drop:0 resp:14615.6 drop_rate:0%
+<error_code_count: > 123=123
+####
+<start: 121.14.241.43_30811_504> times:1331624189 T:2012-3-13 15:36:29
+<global> send:4340 recv:4202 drop:0 resp:15110.2 drop_rate:0%
+<groupid:97> send:4340 recv:4202 drop:0 resp:15110.2 drop_rate:0%
+<app:we> send:4340 recv:4202 drop:0 resp:15110.2 drop_rate:0%
+<dao:dao_malfunction> send:4340 recv:4202 drop:0 resp:15110.2 drop_rate:0%
+<sname:0 dao:dao_malfunction> send:2200 recv:2133 drop:0 resp:14942.2 drop_rate:0% predict_resp:11995.3
+<sname:1 dao:dao_malfunction> send:2140 recv:2069 drop:0 resp:15283.4 drop_rate:0% predict_resp:11753.7
+<app:we dao:dao_malfunction> send:4340 recv:4202 drop:0 resp:15110.2 drop_rate:0%
+<error_code_count: > 44=1,3=9
+####
+
